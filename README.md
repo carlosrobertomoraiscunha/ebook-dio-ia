@@ -4,7 +4,7 @@
 
 Projeto do curso de <mark>Criando um Ebook com ChatGPT & MidJourney</mark> do bootcamp <mark>TONNIE - Java and AI in Europe</mark>.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="[Saída/Java of Exile - O Código Profano e a Forja do Caos.pdf](https://github.com/carlosrobertomoraiscunha/ebook-dio-ia/blob/main/Sa%C3%ADda/Java%20of%20Exile%20-%20O%20C%C3%B3digo%20Profano%20e%20a%20Forja%20do%20Caos.pdf)" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
